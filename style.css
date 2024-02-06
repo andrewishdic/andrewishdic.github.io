@@ -3,6 +3,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  background: rgba(0, 183, 255, 1);
 }
 
 .searchbar {
@@ -12,7 +13,7 @@
   align-items: center;
   border-radius: 20px;
   padding: 10px 20px;
-  background: rgba(0, 135, 255, 0.4);
+  background: rgba(0, 183, 255, 0.4);
 }
 
 .searchbar input {
