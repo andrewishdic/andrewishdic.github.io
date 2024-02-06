@@ -20,4 +20,17 @@
   flex: 1;
   border: 0;
   outline: none;
+  font-size: 20px;
+}
+
+.searchbar button img {
+  width: 25px;
+}
+
+.searchbar button {
+  border: 0;
+  border-radius: 70%;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
 }
